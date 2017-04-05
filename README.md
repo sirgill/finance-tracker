@@ -1,6 +1,6 @@
 # Finance Tracker
 
-Ruby on Rails Applicaiton that allows users to pick and add Stocks to their profiles. Users will are able to search for stocks and follow their friends to see what stocks they are following.  
+Ruby on Rails Applicaiton that allows users to pick and add Stocks to their profiles. Users will are able to search for stocks and follow their friends to see what stocks they are following.  -Code Needs to be refactored, controller is too fat-
 
 ## Built With
 
